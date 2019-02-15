@@ -1,0 +1,5 @@
+.gitignore
+Pipfile
+
+.idea/
+__pycache__/
